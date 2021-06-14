@@ -9,7 +9,7 @@ Good luck on COMP PROG LAB class!
 ## Important notes
 Some of the codes from early weeks are hard to read and very unorganize. This is because I knew nothing when I first apply for this class.
 
-### Descripton for each week
+### Description for each week
 
 **Week 1**
 Introductinn of M5Stack, Basic C programming and LCD graphics
