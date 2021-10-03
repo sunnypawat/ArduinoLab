@@ -1,13 +1,13 @@
 # ArduinoLab
-All codes from COMP PROG LAB class from my freshman year
+All codes from COMP PROG LAB class from my freshman year (2020/1)
 
-## Message to all freshman
-This class is self-learning. They teach you nothing about the Arduino and C programming.
+## A message to all freshman
+This class is self-learning. Professors teach you nothing about the Arduino and C programming.
 The reason that they choose M5Stack is because the answer on the internet was hard to find.
 Good luck on COMP PROG LAB class!
 
 ## Important notes
-Some of the codes from early weeks are hard to read and very unorganize. This is because I knew nothing when I first apply for this class.
+Some of the codes from early weeks are hard to read and very unorganized. This is because I knew nothing when I first appliled for this class.
 
 ### Description for each week
 
