@@ -7,7 +7,7 @@ The reason that they choose M5Stack is because the answer on the internet was ha
 Good luck on COMP PROG LAB class!
 
 ## Important notes
-Some of the codes from early weeks are hard to read and very unorganized. This is because I knew nothing when I first appliled for this class.
+Some of the codes from early weeks are hard to read and very unorganized. This is because I knew nothing when I first applied for this class.
 
 ### Description for each week
 
